@@ -19,7 +19,7 @@ more data, you can fetch 10 records per call.
 9. You can share the code for review through GitHub and also host the application for
 us to check.
 
-[Link to deployed Application](https://los-angeles-mountains.netlify.app/)
+[Link to deployed Application](https://rehanuddin.netlify.app/)
 
 ## Table of Contents
 
@@ -35,21 +35,6 @@ us to check.
 - HTML
 - CSS
 - JavaScript
-- Bootstrap
+- React
 
-## Usage
 
-![](/images/screenshot1.jpg)
-
-## Credits
-
-Carousel - "Bootstrap 4 Carousel" Snippet by mushkaa https://bootsnipp.com/snippets/exVWQ
-Bootstrap for accordian
-
-## Questions :question:
-
-For further questions on this project or future collaboration contact me at:<br>
-
-- GitHub: [terahje](https://github.com/terahje)
-- Email: khawjarehan001@gmail.com
-- Repository link: [skill-test1](https://github.com/terahje/skill-test1)
